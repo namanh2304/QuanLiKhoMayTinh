@@ -12,7 +12,6 @@ import java.sql.DriverManager;
  * @author thanh
  */
 public class Connector {
-    //123
     public static Connection getConnection () {
         Connection connect = null;
         try {
